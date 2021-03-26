@@ -4,11 +4,9 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 ***
 
-## [Examining the effect of environmental factors and weather on Bike rentals](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Seoul_Bikes_Project.ipynb)
-
 <img src="images/seoulbikerental.jpg?raw=true"/>
 
-## Seoul Bike Rental Prediction
+## [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Seoul_Bikes_Project.ipynb)
 * Data from UCI Machine Learning Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
 * *What are the factors that influence the number of bikes rented?*
   * Explored the data for outliers and missing values
