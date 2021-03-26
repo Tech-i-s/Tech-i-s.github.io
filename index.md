@@ -8,10 +8,12 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
-- Used Linear Regression to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
+##Seoul Bike Project
+* What are the factors that influence the number of bikes rented?
+* Explore the data for outliers and missing values.
+* Plot the correlation between the variables and state your comments
+* Built a linear regression model to predict rented bike count by choosing appropriate independent variables.
+* Commented on model performance by using approapriate diagnostics and measures
 
 ***
 
