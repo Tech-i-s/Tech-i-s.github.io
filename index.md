@@ -8,7 +8,7 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 <img src="images/seoulbikerental.jpg?raw=true"/>
 
-##Seoul Bike Project
+## Seoul Bike Project
 * What are the factors that influence the number of bikes rented?
 * Explore the data for outliers and missing values.
 * Plot the correlation between the variables and state your comments
