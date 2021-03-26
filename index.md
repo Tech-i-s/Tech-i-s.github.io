@@ -1,29 +1,26 @@
 # Data Science Portfolio
 
-Here, I have explored various ML algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
+## Here, I have explored various ML algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
 
 ***
 
 <img src="images/seoulbikerental.jpg?raw=true"/>
 
-## [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Seoul_Bikes_Project.ipynb)
+# [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Seoul_Bikes_Project.ipynb)
 * Data from UCI Machine Learning Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
-* *What are the factors that influence the number of bikes rented?*
-  * Explored the data for outliers and missing values
-  * Plotted correlation between the variables
-  * Built a linear regression model to predict rented bike count by choosing appropriate independent variables
+* **Objective**: Determine features that best determine likelihood for renting a bike.
+* Linear Regression Modeling
 * **Conclusion**: My analysis shows that the time of day (`Hour`) and the climate for the day (`Temperature(C)`) were the strongest determinants for the likelihood of renting a bike. It can also be said that more data is needed to conclude a stronger relationship between these variables and the target value for predicting the likelihood for renting a bicycle.
 
 ***
 
-[Bank Customer Classification Project](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Bank_Customer_Classification_Project.ipynb)
-
 <img src="images/portugesebankcustomer.jpg?raw=true"/>
 
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+# [New Bank Customer Classification](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/New_Bank_Customer_Classification.ipynb)
+* Data from UCI Machine Learning Repository: [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+* **Objective**: Classify whether a customer will subscribe a term deposit.
+* Logistic Regression Modeling
+* **Conclusion**: Encoding categorical features to numeric values for fitting a Logistic Regression Model to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not - a Precision Score of 93% and Recall Score of 97% for correctly classifying customers who did make a deposit. 
 
 ***
 
