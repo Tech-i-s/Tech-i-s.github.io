@@ -3,9 +3,11 @@ logo: # "/images/logo.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   Python Connoisseur
+  <br>
   Data Scientist
   <br><br>
   <a href="https://www.linkedin.com/in/nicholas-lee-413602194/">LinkedIn</a> 
+  <br>
   <a href="mailto:nicholas@lmkwyt.org">Email</a> 
 
 theme: jekyll-theme-minimal
