@@ -6,7 +6,7 @@
 
 <img src="images/seoulbikerental.jpg?raw=true"/>
 
-# [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Seoul_Bikes_Project.ipynb)
+# [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/d0d0b9f4aa8f8963ceffdb97a85e67f65b6e6449/Seoul_Bike_Rental_Prediction.ipynb)
 * Data from UCI Machine Learning Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
 * **Objective**: Determine features that best determine likelihood for renting a bike.
 * Linear Regression, Lasso & Ridge Regression Modeling
