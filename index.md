@@ -9,12 +9,11 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 <img src="images/seoulbikerental.jpg?raw=true"/>
 
 ## Seoul Bike Project
-* What are the factors that influence the number of bikes rented?
-* Explore the data for outliers and missing values.
-* Plot the correlation between the variables and state your comments
-* Built a linear regression model to predict rented bike count by choosing appropriate independent variables.
-* Commented on model performance by using approapriate diagnostics and measures
-
+* *What are the factors that influence the number of bikes rented?*
+  * Explored the data for outliers and missing values
+  * Plotted correlation between the variables
+  * Built a linear regression model to predict rented bike count by choosing appropriate independent variables
+* **Conclusion**: My analysis shows that the time of day (`Hour`) and the climate for the day (`Temperature(C)`) were the strongest determinants for the likelihood of renting a bike. It can also be said that more data is needed to conclude a stronger relationship between these variables and the target value for predicting the likelihood for renting a bicycle.
 ***
 
 [Diagnosis of breast cancer using a logistic classifier]()
