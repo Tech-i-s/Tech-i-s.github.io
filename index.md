@@ -9,8 +9,8 @@
 # [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Seoul_Bikes_Project.ipynb)
 * Data from UCI Machine Learning Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
 * **Objective**: Determine features that best determine likelihood for renting a bike.
-* Linear Regression Modeling
-* **Conclusion**: My analysis shows that the time of day (`Hour`) and the climate for the day (`Temperature(C)`) were the strongest determinants for the likelihood of renting a bike. It can also be said that more data is needed to conclude a stronger relationship between these variables and the target value for predicting the likelihood for renting a bicycle.
+* Linear Regression, Lasso & Ridge Regression Modeling
+* **Conclusion**: Features of the dataset, `Temperature(C)`, `Hour` and `Dew Point Temperature(C)` showed the strongest relationships for predicting whether customers will rent a bicycle on a given day according to the dataset tested for Linear, Lasso, and Ridge Regression Modeling. 
 
 ***
 
