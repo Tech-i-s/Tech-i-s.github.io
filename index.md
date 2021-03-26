@@ -4,7 +4,7 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
+[Examining the effect of environmental factors and weather on Bike rentals]()
 
 <img src="images/seoul-bikes.jpeg?raw=true"/>
 
@@ -15,7 +15,7 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 ***
 
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
+[Diagnosis of breast cancer using a logistic classifier]()
 
 <img src="images/breast-cancer.jpeg?raw=true"/>
 
@@ -26,7 +26,7 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+[Identifying symptoms of orthopedic patients as normal or abnormal]()
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
