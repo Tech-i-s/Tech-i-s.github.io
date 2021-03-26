@@ -4,7 +4,7 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals]()
+[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/Seoul_Bikes_Project.ipynb)
 
 <img src="images/seoulbikerental.jpg?raw=true"/>
 
