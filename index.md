@@ -6,7 +6,7 @@ Here, I have explored various ML algorithms for different datasets. Feel free to
 
 [Examining the effect of environmental factors and weather on Bike rentals]()
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
+<img src="images/seoulbikerental.jpg?raw=true"/>
 
 ##Seoul Bike Project
 * What are the factors that influence the number of bikes rented?
