@@ -1,32 +1,30 @@
 # Data Science Portfolio
 
-Here are some of my best Data Science Projects. I have explored various machine-learning algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
+## Here, I have explored various ML algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
 
 ***
 
-[Examining the effect of environmental factors and weather on Bike rentals](https://github.com/emani27/Emani_DataScience/blob/master/Linear_Regression%20Project.ipynb)
+<img src="images/seoulbikerental.jpg?raw=true"/>
 
-<img src="images/seoul-bikes.jpeg?raw=true"/>
-
-- Used Linear Regression to predict the number of bikes rented in the city of Seoul
-- The data had quite a few categorical variables which were encoded for use in the model
-- Encoded categorical variables to numeric using Sklearn due to the presence of many string columns
-- Fit a multiple linear regression model with high prediction accuracy through iteration
-
-***
-
-[Diagnosis of breast cancer using a logistic classifier](https://github.com/emani27/Emani_DataScience/blob/master/Logistic%20Regression%20Project.ipynb)
-
-<img src="images/breast-cancer.jpeg?raw=true"/>
-
-- Used logistic regression to identify a tumour as malignant or benign based on various attributes
-- Classified tumors as benign or malignant by studying patterns in measured attributes of those tumors
-- Used Logistic regression classifier & optimized the accuracy by using the ROC curve
-- Explored a machine learning approach to medical diagnosis
+# [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/d0d0b9f4aa8f8963ceffdb97a85e67f65b6e6449/Seoul_Bike_Rental_Prediction.ipynb)
+* Data from UCI Machine Learning Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
+* **Objective**: Determine features that best determine likelihood for renting a bike.
+* Linear Regression, Lasso & Ridge Regression Modeling
+* **Conclusion**: Features of the dataset, `Temperature(C)`, `Hour` and `Dew Point Temperature(C)` showed the strongest relationships for predicting whether customers will rent a bicycle on a given day according to the dataset tested for Linear, Lasso, and Ridge Regression Modeling. 
 
 ***
 
-[Identifying symptoms of orthopedic patients as normal or abnormal](/sample_page)
+<img src="images/portugesebankcustomer.jpg?raw=true"/>
+
+# [New Bank Customer Classification](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/New_Bank_Customer_Classification.ipynb)
+* Data from UCI Machine Learning Repository: [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+* **Objective**: Classify whether a customer will subscribe a term deposit.
+* Logistic Regression Modeling
+* **Conclusion**: Encoding categorical features to numeric values for fitting a Logistic Regression Model to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not - a Precision Score of 93% and Recall Score of 97% for correctly classifying customers who did make a deposit. 
+
+***
+
+[Identifying symptoms of orthopedic patients as normal or abnormal]()
 
 <img src="images/knee-brace-ortho.png?raw=true"/>
 
