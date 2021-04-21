@@ -15,10 +15,10 @@
 	* Metrics:
 		* Lasso L1:
 			* Training Score: 0.45812
-			* # Features: 9
+			* Number Features: 9
 		* Ridge L2:
 			* Training Score: 0.45769
-			* # Features: 9
+			* Number Features: 9
 
 ***
 
