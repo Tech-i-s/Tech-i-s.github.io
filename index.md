@@ -22,6 +22,8 @@
 * Logistic Regression Modeling
 * **Conclusion**: Encoding categorical features to numeric values for fitting a Logistic Regression Model to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not - a Precision Score of 93% and Recall Score of 97% for correctly classifying customers who did make a deposit. 
 
+<img src="images/bankCustomerConfusionMatrix.png?raw=true"/>
+
 ***
 
 [Identifying symptoms of orthopedic patients as normal or abnormal]()
