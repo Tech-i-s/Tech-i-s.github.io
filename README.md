@@ -1,3 +1,3 @@
-Website Address: [Live Example](https://lmkwytnicholas.github.io/nal.github.io/)
+Website Address: [Live](https://lmkwytnicholas.github.io/nal.github.io/)
 
 - Data Science students' Portfolio Template
