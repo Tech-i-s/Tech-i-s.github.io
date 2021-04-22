@@ -12,12 +12,11 @@
 * **Models**: Linear Regression, Lasso & Ridge Regression Modeling
 * **Conclusion**: Features of the dataset, `Temperature(C)`, `Hour` and `Dew Point Temperature(C)` showed the strongest relationships for predicting whether customers will rent a bicycle on a given day according to the dataset tested for Linear, Lasso, and Ridge Regression Modeling.
 
+**Correlation Matrix**
 <img src="images/plotCorrMatrix.jpg?raw=true"/>
-
 * Lasso L1:
 * Training Score: 0.45812
 * Number Features: 9
-
 * Ridge L2:
 * Training Score: 0.45769
 * Number Features: 9
