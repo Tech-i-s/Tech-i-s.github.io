@@ -11,7 +11,7 @@
 * **Objective**: Determine features that best determine likelihood for renting a bike.
 * Linear Regression, Lasso & Ridge Regression Modeling
 * **Conclusion**: Features of the dataset, `Temperature(C)`, `Hour` and `Dew Point Temperature(C)` showed the strongest relationships for predicting whether customers will rent a bicycle on a given day according to the dataset tested for Linear, Lasso, and Ridge Regression Modeling.
-<img src="images/plotCorrMatrix.png?raw=true"/>
+<img src="images/plotCorrMatrix.jpg?raw=true"/>
 	* Metrics:
 		* Lasso L1:
 			* Training Score: 0.45812
