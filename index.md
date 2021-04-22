@@ -14,10 +14,9 @@
 
 **Correlation Matrix**
 <img src="images/plotCorrMatrix.jpg?raw=true"/>
-* **Metrics**
 * **Lasso L1**
 * Training Score: **0.45812**
- Number Features: **9**
+* Number Features: **9**
 * **Ridge L2**
 * Training Score: **0.45769**
 * Number Features: **9**
@@ -27,9 +26,9 @@
 <img src="images/portugesebankcustomer.jpg?raw=true"/>
 
 # [New Bank Customer Classification](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/New_Bank_Customer_Classification.ipynb)
-* Data from UCI Machine Learning Repository: [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+* **Data**: UCI ML Repository: [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 * **Objective**: Classify whether a customer will become a new customer e.g. - subscribe a term deposit
-* Logistic Regression Modeling
+* **Models**: Logistic Regression
 * **Conclusion**: Model fit to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not
 	* Precision Score: 93%
 	* Recall Score: 97% 
