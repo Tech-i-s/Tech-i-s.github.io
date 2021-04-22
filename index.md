@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## Thanks for visiting my portfolio, a collection of projects displaying my work with datasets and application of machine learning algorithms produced on Google CoLab.
+## Thanks for visiting my portfolio, a collection of my work with datasets and application of machine learning algorithms using Python 3 on Google CoLab.
 
 ***
 
@@ -25,7 +25,7 @@
 
 <img src="images/sentimentanalysis?raw=true"/>
 
-# [Sentiment Analysis - Amazon Food Reviews](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
+# [NLP Sentiment Analysis - Amazon Food Reviews](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
 * **Data**: Kaggle - [Amazon Fine Foods Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 * **Objective**: Determine review as positive or negative per sentiment analysis
 * **Models**: Multinomial Naive Bayes for **Bag of Words (BoW)** vs. **Term Frequency - Inverse Document Frequency (TF-IDF)**
