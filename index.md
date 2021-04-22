@@ -7,18 +7,20 @@
 <img src="images/seoulbikerental.jpg?raw=true"/>
 
 # [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/d0d0b9f4aa8f8963ceffdb97a85e67f65b6e6449/Seoul_Bike_Rental_Prediction.ipynb)
-* Data from UCI Machine Learning Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
+* **Data**: UCI ML Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
 * **Objective**: Determine features that best determine likelihood for renting a bike.
-* Linear Regression, Lasso & Ridge Regression Modeling
+* **Models**: Linear Regression, Lasso & Ridge Regression Modeling
 * **Conclusion**: Features of the dataset, `Temperature(C)`, `Hour` and `Dew Point Temperature(C)` showed the strongest relationships for predicting whether customers will rent a bicycle on a given day according to the dataset tested for Linear, Lasso, and Ridge Regression Modeling.
+
 <img src="images/plotCorrMatrix.jpg?raw=true"/>
-	* Metrics:
-		* Lasso L1:
-			* Training Score: 0.45812
-			* Number Features: 9
-		* Ridge L2:
-			* Training Score: 0.45769
-			* Number Features: 9
+
+* Lasso L1:
+* Training Score: 0.45812
+* Number Features: 9
+
+* Ridge L2:
+* Training Score: 0.45769
+* Number Features: 9
 
 ***
 
