@@ -1,6 +1,6 @@
 # Data Science Portfolio
 
-## Here, I have explored various ML algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
+## Thanks for visiting my portfolio, a collection of projects displaying my work with datasets and application of machine learning algorithms produced on Google CoLab.
 
 ***
 
