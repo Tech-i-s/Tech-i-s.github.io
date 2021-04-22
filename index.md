@@ -1,6 +1,40 @@
 # Data Science Portfolio
 
-## Here, I have explored various ML algorithms for different datasets. Feel free to contanct me to learn more about my experience working with these projects.
+## Here, I have explored various ML algorithms for different datasets. Feel free to contact me to learn more about my experience working with these projects.
+
+***
+
+# [NLP Content-Based Recommendation Engine using TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/contentBasedRecommendation.ipynb)
+* **Data**: Kaggle - [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
+* **Objective**: Create a movie recommendation engine using the dataset
+* **Models**: TF-IDF
+* **Conclusion**: Movie Recommender takes an input from user, a movie title, and produces 10 movie recommendations from original dataset based on TF-IDF algorithm
+<"images/movierecengine"/>
+
+
+***
+
+# [NLP Collaborative-Filtering Recommendation Engine using kNN - Cosine Similarity](https://github.com/lmkwytnicholas/nic.github.io/blob/master/collabFilteringNlpBookRecommender.ipynb)
+* **Data**: Kaggle - [BookCrossing](https://www.kaggle.com/jirakst/bookcrossing)
+* **Objective**: Create a book recommendation engine using the dataset
+* **Models**: kNearestNeighbors - Cosine Similarity
+* **Conclusion**: Selecting a book (`query_index`) from the dataset produces 5 book recommendations from same dataset based on kNN Cosine Similarity algorithm
+<img src="images/collabFilterBook"/>
+
+***
+
+<img src="images/sentimentanalysis?raw=true"/>
+
+# [Sentiment Analysis - Amazon Food Reviews](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
+* **Data**: Kaggle - [Amazon Fine Foods Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
+* **Objective**: Determine review as positive or negative per sentiment analysis
+* **Models**: Multinomial Naive Bayes for **Bag of Words (BoW)** vs. **Term Frequency - Inverse Document Frequency (TF-IDF)**
+* BoW 
+<img src="images/BoW"/>
+* TF-IDF
+<img src="images/TF-IDF"/>
+* **Conclusion**:
+<img src="images/final"/> 
 
 ***
 
@@ -36,7 +70,7 @@
 
 ***
 
-# [Malignant vs. Benign Tumor Classification](https://github.com/lmkwytnicholas/nal.github.io/blob/master/tumorClassificationLogReg.ipynb)
+# [Malignant Tumor Classification](https://github.com/lmkwytnicholas/nal.github.io/blob/master/tumorClassificationLogReg.ipynb)
 * **Data**: Breast Cancer Data from sklearn 
 * **Objective**: Classify whether a tumor is malignant or benign
 * **Models**: Logistic Regression
