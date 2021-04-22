@@ -10,8 +10,7 @@
 * **Data**: UCI ML Repository: [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
 * **Objective**: Determine features that best determine likelihood for renting a bike.
 * **Models**: Linear Regression, Lasso & Ridge Regression Modeling
-* **Conclusion**: Features of the dataset, `Temperature(C)`, `Hour` and `Dew Point Temperature(C)` showed the strongest relationships for predicting whether customers will rent a bicycle on a given day according to the dataset tested for Linear, Lasso, and Ridge Regression Modeling.
-
+* **Conclusion**: 
 **Correlation Matrix**
 <img src="images/plotCorrMatrix.jpg?raw=true"/>
 * **Lasso L1**
@@ -30,10 +29,19 @@
 * **Objective**: Classify whether a customer will become a new customer e.g. - subscribe a term deposit
 * **Models**: Logistic Regression
 * **Conclusion**: Model fit to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not
-	* Precision Score: 93%
-	* Recall Score: 97% 
+	* Precision: 93%
+	* Recall: 97% 
 
 <img src="images/bankCustomerConfusionMatrix.jpg?raw=true"/>
 
 ***
+
+# [Malignant vs. Benign Tumor Classification](https://github.com/lmkwytnicholas/nal.github.io/blob/master/tumorClassificationLogReg.ipynb)
+* **Data**: Breast Cancer Data from sklearn 
+* **Objective**: Classify whether a tumor is malignant or benign
+* **Models**: Logistic Regression
+* **Conclusion**: 
+	* Accuracy: 0.92982
+
+<img src="images/tumorConfusionMatrix.jpg?raw=true"/>
 
