@@ -1,1 +1,1 @@
-[Website](https://lmkwytnicholas.github.io/nal.github.io/)
+[Website](https://lmkwytnicholas.github.io/nic.github.io/)
