@@ -4,7 +4,7 @@
 
 ***
 
-# [NLP Content-Based Recommendation Engine using TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/contentBasedRecommendation.ipynb)
+# [Content-Based Movie Recommendation Engine](https://github.com/lmkwytnicholas/nic.github.io/blob/master/contentBasedRecommendation.ipynb)
 * **Data**: Kaggle - [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 * **Objective**: Create a movie recommendation engine using the dataset
 * **Models**: TF-IDF
@@ -14,7 +14,7 @@
 
 ***
 
-# [NLP Collaborative-Filtering Recommendation Engine using kNN - Cosine Similarity](https://github.com/lmkwytnicholas/nic.github.io/blob/master/collabFilteringNlpBookRecommender.ipynb)
+# [Collaborative-Filtering Book Recommendation Engine](https://github.com/lmkwytnicholas/nic.github.io/blob/master/collabFilteringNlpBookRecommender.ipynb)
 * **Data**: Kaggle - [BookCrossing](https://www.kaggle.com/jirakst/bookcrossing)
 * **Objective**: Create a book recommendation engine using the dataset
 * **Models**: kNearestNeighbors - Cosine Similarity
@@ -25,7 +25,7 @@
 
 <img src="images/sentimentanalysis?raw=true"/>
 
-# [NLP Sentiment Analysis - Amazon Food Reviews](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
+# [Sentiment Analysis of Amazon Fine Foods Reviews](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
 * **Data**: Kaggle - [Amazon Fine Foods Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 * **Objective**: Determine review as positive or negative per sentiment analysis
 * **Models**: Multinomial Naive Bayes for **Bag of Words (BoW)** vs. **Term Frequency - Inverse Document Frequency (TF-IDF)**
@@ -35,6 +35,36 @@
 <img src="images/TF-IDF"/>
 * **Conclusion**:
 <img src="images/final"/> 
+
+***
+
+# [Fake News Classifer](https://github.com/lmkwytnicholas/nic.github.io/blob/master/fakeNewsBowTfidf.ipynb)
+* **Data**: Kaggle - [Fake News](https://www.kaggle.com/c/fake-news/overview)
+* **Objective**: Build a system to identify unreliable news articles
+* **Models**: CountVectorizer, BoW vs. TF-IDF, Multinomial Naive Bayes
+* **Conclusion**: CountVectorizer, BoW performed better than TF-IDF Vectorizer in identifying fake news with this dataset
+<img src="BoWVal"/>
+<img src="TfidfVal"/>
+
+***
+
+# [Determine Optimal K Value with Elbow Method](https://github.com/lmkwytnicholas/nic.github.io/blob/master/autoMpgKmeans.ipynb)
+* **Data**: UCI ML Repository - [Auto MPG Data Set](http://archive.ics.uci.edu/ml/datasets/Auto+MPG)
+* **Objective**: Determine optimal k-value for k-means clustering using the Elbow Method
+* **Models**: K-Means Clustering Elbow Method
+* **Conclusion**: 
+<img src="autoMpg"/>
+
+***
+
+# [Malignant Tumor Classification](https://github.com/lmkwytnicholas/nal.github.io/blob/master/tumorClassificationLogReg.ipynb)
+* **Data**: Breast Cancer Data from sklearn 
+* **Objective**: Classify whether a tumor is malignant or benign
+* **Models**: Logistic Regression
+* **Conclusion**: 
+	* Accuracy: 0.92982
+
+<img src="images/tumorConfusionMatrix.jpg?raw=true"/>
 
 ***
 
@@ -70,12 +100,5 @@
 
 ***
 
-# [Malignant Tumor Classification](https://github.com/lmkwytnicholas/nal.github.io/blob/master/tumorClassificationLogReg.ipynb)
-* **Data**: Breast Cancer Data from sklearn 
-* **Objective**: Classify whether a tumor is malignant or benign
-* **Models**: Logistic Regression
-* **Conclusion**: 
-	* Accuracy: 0.92982
 
-<img src="images/tumorConfusionMatrix.jpg?raw=true"/>
 
