@@ -39,7 +39,7 @@
 
 ***
 
-# [PCA | Linear Regression Performance Comparison](https://github.com/lmkwytnicholas/nic.github.io/blob/master/housingDataPCA.ipynb)
+# [Dimension Reduction with PCA](https://github.com/lmkwytnicholas/nic.github.io/blob/master/housingDataPCA.ipynb)
 * **Data**: [House Prices - Advanced Regression Techniques
 ](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 * **Objective**: Reduce number of features of dataset using Principal Componenet Analysis and then compare performance of Linear Regression between transformed and original data
