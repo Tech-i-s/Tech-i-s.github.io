@@ -32,7 +32,7 @@
 # [Fake News Classifer, BoW vs. TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/fakeNewsBowTfidf.ipynb)
 * **Data**: Kaggle - [Fake News](https://www.kaggle.com/c/fake-news/overview)
 * **Objective**: Build a system to identify unreliable news articles
-* **Methods**: CountVectorizer, BoW vs. TF-IDF, Multinomial Naive Bayes
+* **Methods**: Multinomial Naive Bayes of BoW vs. TF-IDF
 * **Conclusion**:
 	* BoW - Accuracy Score - 92.05%
 	* TF-IDF - Accuracry Score - 89.97%
