@@ -1,8 +1,8 @@
-<head>img.center {
+<style>img.center {
     display: block;
     margin: 0 auto;
 }
-</head>
+</style>
 # Data Science Portfolio
 
 ## Thanks for visiting my portfolio, a collection of my work with datasets and application of machine learning algorithms using Python 3 on Google CoLab.
