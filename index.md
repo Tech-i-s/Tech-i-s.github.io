@@ -3,7 +3,7 @@
 
 ***
 
-# [Content-Based Movie Recommendation Engine](https://github.com/lmkwytnicholas/nic.github.io/blob/master/contentBasedRecommendation.ipynb)
+# [Movie Recommendation Engine, Content-Based TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/contentBasedRecommendation.ipynb)
 * **Data**: Kaggle - [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 * **Objective**: Create a movie recommendation engine using the dataset
 * **Methods**: TF-IDF
@@ -11,7 +11,7 @@
 
 ***
 
-# [Collaborative-Filtering Book Recommendation Engine](https://github.com/lmkwytnicholas/nic.github.io/blob/master/collabFilteringNlpBookRecommender.ipynb)
+# [Book Recommendation Engine, Collaborative-Filtering kNN](https://github.com/lmkwytnicholas/nic.github.io/blob/master/collabFilteringNlpBookRecommender.ipynb)
 * **Data**: Kaggle - [BookCrossing](https://www.kaggle.com/jirakst/bookcrossing)
 * **Objective**: Create a book recommendation engine using the dataset
 * **Mehtods**: kNearestNeighbors - Cosine Similarity
@@ -19,7 +19,7 @@
 
 ***
 
-# [Sentiment Analysis of Amazon Fine Foods Reviews](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
+# [Amazon Fine Foods Reviews, Sentiment Analysis](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
 * **Data**: Kaggle - [Amazon Fine Foods Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 * **Objective**: Determine review as positive or negative per sentiment analysis
 * **Methods**: Multinomial Naive Bayes for **Bag of Words (BoW)** vs. **Term Frequency - Inverse Document Frequency (TF-IDF)**
@@ -29,7 +29,7 @@
 
 ***
 
-# [Fake News Classifer](https://github.com/lmkwytnicholas/nic.github.io/blob/master/fakeNewsBowTfidf.ipynb)
+# [Fake News Classifer, BoW vs. TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/fakeNewsBowTfidf.ipynb)
 * **Data**: Kaggle - [Fake News](https://www.kaggle.com/c/fake-news/overview)
 * **Objective**: Build a system to identify unreliable news articles
 * **Methods**: CountVectorizer, BoW vs. TF-IDF, Multinomial Naive Bayes
@@ -39,7 +39,7 @@
 
 ***
 
-# [Dimension Reduction with PCA](https://github.com/lmkwytnicholas/nic.github.io/blob/master/housingDataPCA.ipynb)
+# [Dimension Reduction, PCA](https://github.com/lmkwytnicholas/nic.github.io/blob/master/housingDataPCA.ipynb)
 * **Data**: [House Prices - Advanced Regression Techniques
 ](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data)
 * **Objective**: Reduce number of features of dataset using Principal Componenet Analysis and then compare performance of Linear Regression between transformed and original data
@@ -60,7 +60,7 @@
 
 ***
 
-# [Malignant Tumor Classification](https://github.com/lmkwytnicholas/nal.github.io/blob/master/tumorClassificationLogReg.ipynb)
+# [Malignant Tumor Classification, Logistic Regression](https://github.com/lmkwytnicholas/nal.github.io/blob/master/tumorClassificationLogReg.ipynb)
 * **Data**: Breast Cancer Data from `sklearn`
 * **Objective**: Classify whether a tumor is malignant or benign
 * **Models**: Logistic Regression
@@ -69,22 +69,22 @@
 
 ***
 
-# [Seoul Bike Rental Prediction](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/d0d0b9f4aa8f8963ceffdb97a85e67f65b6e6449/Seoul_Bike_Rental_Prediction.ipynb)
+# [New Bank Customer Classification, Logistic Regression](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/New_Bank_Customer_Classification.ipynb)
+* **Data**: UCI ML Repository - [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
+* **Objective**: Classify whether a customer will become a new customer e.g. - subscribe a term deposit
+* **Models**: Logistic Regression
+* **Conclusion**: Model fit to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not
+	* Accuracy Score: 0.90689
+
+***
+
+# [Seoul Bike Rental Prediction, Linear Regression](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/d0d0b9f4aa8f8963ceffdb97a85e67f65b6e6449/Seoul_Bike_Rental_Prediction.ipynb)
 * **Data**: UCI ML Repository - [Seoul Bike Sharing Demand Data Set](https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand)
 * **Objective**: Determine features that best determine likelihood for renting a bike.
 * **Models**: Linear Regression, Lasso & Ridge 
 * **Conclusion**: 
 	* Lasso (L1) - Training Score: 0.45812, Features: 9
 	* Ridge (L2) - Training Score: 0.45769, Features: 9
-
-***
-
-# [New Bank Customer Classification](https://github.com/lmkwytnicholas/nicholas-lee.github.io/blob/master/New_Bank_Customer_Classification.ipynb)
-* **Data**: UCI ML Repository - [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
-* **Objective**: Classify whether a customer will become a new customer e.g. - subscribe a term deposit
-* **Models**: Logistic Regression
-* **Conclusion**: Model fit to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not
-	* Accuracy Score: 0.90689
 
 ***
 
