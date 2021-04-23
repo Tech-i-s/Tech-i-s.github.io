@@ -9,7 +9,7 @@
 * **Objective**: Create a movie recommendation engine using the dataset
 * **Models**: TF-IDF
 * **Conclusion**: Movie Recommender takes an input from user, a movie title, and produces 10 movie recommendations from original dataset based on TF-IDF algorithm
-<"images/movierecengine"/>
+<img src="images/movieRecEngine.JPG?raw=true"/>
 
 
 ***
