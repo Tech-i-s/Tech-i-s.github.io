@@ -22,7 +22,7 @@
 # [Amazon Fine Foods Reviews, Sentiment Analysis](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
 * **Data**: Kaggle - [Amazon Fine Foods Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 * **Objective**: Determine review as positive or negative per sentiment analysis
-* **Methods**: Multinomial Naive Bayes for **Bag of Words (BoW)** vs. **Term Frequency - Inverse Document Frequency (TF-IDF)**
+* **Methods**: Multinomial Naive Bayes of BoW vs. TF-IDF
 * **Conclusion**: Of the two alpha values identified between the BoW and TF-IDF vectorizations of text dataset, BoW performed best
 	* BoW - Best Alpha - 0.05, AUC - 0.92098 
 	* TF-IDF - Best Alpha - 0.05, AUC - 0.90401
