@@ -1,3 +1,8 @@
+<head>img.center {
+    display: block;
+    margin: 0 auto;
+}
+</head>
 # Data Science Portfolio
 
 ## Thanks for visiting my portfolio, a collection of my work with datasets and application of machine learning algorithms using Python 3 on Google CoLab.
@@ -9,7 +14,8 @@
 * **Objective**: Create a movie recommendation engine using the dataset
 * **Models**: TF-IDF
 * **Conclusion**: Movie Recommender takes an input from user, a movie title, and produces 10 movie recommendations from original dataset based on TF-IDF algorithm
-<img src="images/movieRecEngine.JPG?raw=true"/>
+
+<img class="center" src="images/movieRecEngine.JPG?raw=true"/>
 
 
 ***
@@ -19,7 +25,8 @@
 * **Objective**: Create a book recommendation engine using the dataset
 * **Models**: kNearestNeighbors - Cosine Similarity
 * **Conclusion**: Selecting a book (`query_index`) from the dataset produces 5 book recommendations from same dataset based on kNN Cosine Similarity algorithm
-<img src="images/collabFilterBook"/>
+
+<img class="center" src="images/collabFilterBookRecEngine.JPG?raw=True"/>
 
 ***
 
