@@ -3,7 +3,7 @@
 
 ***
 
-# [Movie Recommendation Engine, Content-Based TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/contentBasedRecommendation.ipynb)
+# [Movie Recommendation Engine, NLP Content-Based TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/contentBasedRecommendation.ipynb)
 * **Data**: Kaggle - [TMDB 5000 Movie Dataset](https://www.kaggle.com/tmdb/tmdb-movie-metadata)
 * **Objective**: Create a movie recommendation engine using the dataset
 * **Methods**: TF-IDF
@@ -11,7 +11,7 @@
 
 ***
 
-# [Book Recommendation Engine, Collaborative-Filtering kNN](https://github.com/lmkwytnicholas/nic.github.io/blob/master/collabFilteringNlpBookRecommender.ipynb)
+# [Book Recommendation Engine, NLP Collaborative-Filtering kNN](https://github.com/lmkwytnicholas/nic.github.io/blob/master/collabFilteringNlpBookRecommender.ipynb)
 * **Data**: Kaggle - [BookCrossing](https://www.kaggle.com/jirakst/bookcrossing)
 * **Objective**: Create a book recommendation engine using the dataset
 * **Mehtods**: kNearestNeighbors - Cosine Similarity
@@ -19,7 +19,7 @@
 
 ***
 
-# [Amazon Fine Foods Reviews, Sentiment Analysis](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
+# [Amazon Fine Foods Reviews, NLP Sentiment Analysis](https://github.com/lmkwytnicholas/nic.github.io/blob/master/amazonSentimentAnalysisBowTfidf.ipynb)
 * **Data**: Kaggle - [Amazon Fine Foods Reviews](https://www.kaggle.com/snap/amazon-fine-food-reviews)
 * **Objective**: Determine review as positive or negative per sentiment analysis
 * **Methods**: Multinomial Naive Bayes of BoW vs. TF-IDF
@@ -29,7 +29,7 @@
 
 ***
 
-# [Fake News Classifer, BoW vs. TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/fakeNewsBowTfidf.ipynb)
+# [Fake News Classifer, NLP BoW vs. TF-IDF](https://github.com/lmkwytnicholas/nic.github.io/blob/master/fakeNewsBowTfidf.ipynb)
 * **Data**: Kaggle - [Fake News](https://www.kaggle.com/c/fake-news/overview)
 * **Objective**: Build a system to identify unreliable news articles
 * **Methods**: Multinomial Naive Bayes of BoW vs. TF-IDF
