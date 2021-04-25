@@ -65,7 +65,7 @@
 * **Objective**: Classify whether a tumor is malignant or benign
 * **Models**: Logistic Regression
 * **Conclusion**: 
-	* Accuracy Score: 0.92982
+	* Accuracy Score: 92.98%
 
 ***
 
@@ -74,7 +74,7 @@
 * **Objective**: Classify whether a customer will become a new customer e.g. - subscribe a term deposit
 * **Models**: Logistic Regression
 * **Conclusion**: Model fit to dataset proved to be effective for accurately classifying whether a customer will make a term deposit or not
-	* Accuracy Score: 0.90689
+	* Accuracy Score: 90.68%
 
 ***
 
@@ -83,8 +83,8 @@
 * **Objective**: Determine features that best determine likelihood for renting a bike.
 * **Models**: Linear Regression, Lasso & Ridge 
 * **Conclusion**: 
-	* Lasso (L1) - Training Score: 0.45812, Features: 9
-	* Ridge (L2) - Training Score: 0.45769, Features: 9
+	* Lasso (L1) - Training Score: 45.81%, Features: 9
+	* Ridge (L2) - Training Score: 45.77%, Features: 9
 
 ***
 
